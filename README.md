@@ -1,4 +1,4 @@
-# ttt_bot
-telegram time tracker bot
+# telegram time tracker bot
+
 Отслеживание времени начала и окончания работы пользователей, а также 
 предоставлениt информации о продолжительности работы в форматах .txt / .json / .xlsx
